@@ -22,7 +22,7 @@ This project controls four servo motors using an Arduino Uno. The motors perform
 8. Tested the circuit using Tinkercad simulation.
 
 ## Output
-<img width="1073" height="583" alt="Screenshot 2026-07-07 212936" src="https://github.com/user-attachments/assets/2da87306-32fc-4c5a-87b6-ee6363c28171" />
+<img width="1064" height="568" alt="Screenshot 2026-07-08 103948" src="https://github.com/user-attachments/assets/49d33a25-4385-4220-8afb-533a02235a79" />
 
 ## Author
 Amal
