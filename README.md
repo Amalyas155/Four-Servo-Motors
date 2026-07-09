@@ -42,4 +42,4 @@ Power Connections:
 <img width="1064" height="568" alt="Servo Motors Simulation" src="https://github.com/user-attachments/assets/49d33a25-4385-4220-8afb-533a02235a79" />
 
 ## Author
-**Amal**
+**Amal yasser**
