@@ -61,7 +61,8 @@ You can view the circuit simulation here:
 
 ## Output
 
-<img width="812" height="527" alt="Screenshot 2026-07-11 214843" src="https://github.com/user-attachments/assets/a8491951-033f-48b4-a68d-8b8314cfb52a" />
+<img width="1061" height="621" alt="Screenshot 2026-07-08 103927" src="https://github.com/user-attachments/assets/e645edef-f5fc-41e6-ace5-50c8f16c4769" />
+
 
 
 ## Author
