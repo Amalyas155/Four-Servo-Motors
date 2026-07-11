@@ -1,4 +1,4 @@
-## Four Servo Motors 
+## Four Servo Motors  Control
 
 A simple Arduino project that controls four servo motors. The project demonstrates how multiple servo motors can be connected and controlled using an Arduino Uno. The circuit was designed and tested using Tinkercad before implementation.
 
@@ -74,7 +74,8 @@ You can view the circuit simulation here:
 
 ## Output
 
-<img width="1064" height="568" alt="Servo Motors Simulation" src="https://github.com/user-attachments/assets/49d33a25-4385-4220-8afb-533a02235a79" />
+<img width="812" height="527" alt="Screenshot 2026-07-11 214843" src="https://github.com/user-attachments/assets/a8491951-033f-48b4-a68d-8b8314cfb52a" />
+
 
 ## Author
 **Amal yasser**
