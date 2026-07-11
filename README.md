@@ -59,19 +59,6 @@ You can view the circuit simulation here:
 
 ---
 
-## Repository Structure
-
-```text
-├── code/
-│   └── servo_control.ino
-├── images/
-│   ├── circuit.png
-│   └── wiring.jpg
-└── README.md
-```
-
----
-
 ## Output
 
 <img width="812" height="527" alt="Screenshot 2026-07-11 214843" src="https://github.com/user-attachments/assets/a8491951-033f-48b4-a68d-8b8314cfb52a" />
