@@ -1,41 +1,76 @@
-# Four Servo Motors Control
+**# Four Servo Motors with Arduino
 
-## Project Description
-This project demonstrates how to control four servo motors using an Arduino Uno. The servo motors rotate for 2 seconds and then stop at a fixed position (90°). The circuit was designed and tested using Tinkercad.
+A simple Arduino project that controls four servo motors. The project demonstrates how multiple servo motors can be connected and controlled using an Arduino Uno. The circuit was designed and tested using Tinkercad before implementation.
+
+---
+
+## Project Overview
+
+This project uses an Arduino Uno to control four servo motors. Each servo receives a control signal from a different digital pin while sharing the same power and ground connections.
+
+---
 
 ## Components
-- Arduino Uno
-- 4 × SG90 Servo Motors
-- Breadboard
-- Jumper Wires
+
+* Arduino Uno
+* 4 × Servo Motors
+* Breadboard
+* Jumper Wires
+* USB Cable
+
+---
 
 ## Software
-- Arduino IDE
-- Tinkercad
+
+* Arduino IDE
+* Tinkercad
+
+---
+
+## Tinkercad Simulation
+
+You can view the circuit simulation here:
+
+**https://www.tinkercad.com/things/4y014Cr1Jm5-four-servo-motors-control?sharecode=PhxB0buvo4stfJ60Br4KdGYm011dcT9TkjMsLlLQAvM**
+
+---
 
 ## Circuit Connections
-| Servo Motor | Signal Pin |
-|--------------|------------|
-| Servo 1 | D9 |
-| Servo 2 | D10 |
-| Servo 3 | D11 |
-| Servo 4 | D12 |
 
-Power Connections:
-- Red wire → 5V
-- Brown/Black wire → GND
-- Orange wire → Signal Pin
+| Servo   | Signal Pin |
+| ------- | ---------- |
+| Servo 1 | D9         |
+| Servo 2 | D10        |
+| Servo 3 | D11        |
+| Servo 4 | D12        |
 
-## Steps
-1. Added four servo motors in Tinkercad.
-2. Connected all servo motors to the Arduino Uno.
-3. Connected the signal wires to digital pins D9, D10, D11, and D12.
-4. Connected all power wires to 5V and all ground wires to GND.
-5. Wrote the Arduino code using the Servo library.
-6. Uploaded the code to the Arduino Uno.
-7. Rotated all servo motors for 2 seconds.
-8. Stopped all servo motors at 90°.
-9. Tested the circuit using the Tinkercad simulation.
+* All servo VCC pins → 5V
+* All servo GND pins → GND
+
+---
+
+## How to Run
+
+1. Open the Arduino code in Arduino IDE.
+2. Connect the Arduino Uno to your computer.
+3. Select the correct board and COM port.
+4. Upload the code.
+5. The four servo motors will move according to the program.
+
+---
+
+## Repository Structure
+
+```text
+├── code/
+│   └── servo_control.ino
+├── images/
+│   ├── circuit.png
+│   └── wiring.jpg
+└── README.md
+```
+
+---
 
 ## Output
 
